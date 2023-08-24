@@ -1,10 +1,10 @@
-## Unsplash Images
+# Unsplash Images
 
 This is a website for getting images from the Unsplash Images API. You have the user search for an image in the search bar and you use that search term with the Unsplash API to get the images.
 
 Link: https://react-images-unsplash.netlify.app/
 
-# Tools Used
+## Tools Used
 
 - HTML for displaying the content
 - CSS and Styled Components for styling the website
@@ -12,13 +12,14 @@ Link: https://react-images-unsplash.netlify.app/
 - React for creating reusable components and help with management of data
 - Context API for state management
 - Axios for fetching data
-- Serverless functions for grabbing data from the API
+- React Query for caching
+- Vite for fast development and optimized production builds
 
-# Images
+## Images
 
 ![picture](images_readme/1.PNG)
 ![picture](images_readme/2.PNG)
 
-# Link
+## Link
 
 Link: https://react-images-unsplash.netlify.app/
